@@ -13,7 +13,7 @@ module.exports = {
   description: "DESC",
   run: async (client, message, args) => {
     
-//CODE HERE 🈁
+//CODE HERE 
 
   }
 }
